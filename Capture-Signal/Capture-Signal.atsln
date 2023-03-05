@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Capture-Signal", "Capture-Signal\Capture-Signal.cproj", "{206F55EF-9279-40B3-853F-2C8F776FB3AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{206F55EF-9279-40B3-853F-2C8F776FB3AC}.Debug|AVR.ActiveCfg = Debug|AVR
+		{206F55EF-9279-40B3-853F-2C8F776FB3AC}.Debug|AVR.Build.0 = Debug|AVR
+		{206F55EF-9279-40B3-853F-2C8F776FB3AC}.Release|AVR.ActiveCfg = Release|AVR
+		{206F55EF-9279-40B3-853F-2C8F776FB3AC}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
